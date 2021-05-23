@@ -1,16 +1,21 @@
 import React from "react";
-import FeatureBox from "./FeatureBox";
-import web from "../src/images/images.jpg";
-import featureimage2 from "../src/images/doc-nurse-amb.jpg";
-import featureimage3 from "../src/images/Ambulance.jpg";
+import Cards from "./Cards";
+
 const Services = () => {
   return (
     <>
-      <div id="service_pg">
-        <div className="a-container">
-          <FeatureBox image={web} title={"Course"} />
-          <FeatureBox image={featureimage2} title={"Course"} />
-          <FeatureBox image={featureimage3} title={"Course"} />
+      <div className="my-5">
+        <h1 className="text-center">Our Services</h1>
+      </div>
+      <div className="container-fluid mb-5">
+        <div className="row">
+          <div className="col-10 mx-auto">
+            <div className="row">
+              <div className="row gy-4 hp">
+                <Cards />
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </>

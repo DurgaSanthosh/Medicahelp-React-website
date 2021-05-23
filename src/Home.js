@@ -2,6 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import web from "../src/images/images.jpg";
 
+
 const Home = () => {
   return (
     <>
@@ -19,8 +20,8 @@ const Home = () => {
                     We are a team of enthusiastic people trying to help you out
                     through our constant efforts
                   </h2>
-                  <div className="mt-3">
-                    <NavLink to="/service" className="btn-ambulance">
+                  <div className="mt-3 ">
+                    <NavLink to="/booking" className="btn-ambulance">
                       Book Ambulance
                     </NavLink>
                   </div>

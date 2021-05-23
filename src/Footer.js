@@ -3,17 +3,11 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <div className="footer-container">
-      <section>
-        <div className="footer-links">
-          <div className="footer-link-wraper">
-            <div className="footer-link-items">
-              <p>This is Footer</p>
-            </div>
-          </div>
-        </div>
-      </section>
-    </div>
+    <>
+      <footer className="bg-light text-center">
+        <p> &copy; 2020 Med-Van. All rights Reserved | Terms And Conditions</p>
+      </footer>
+    </>
   );
 }
 
