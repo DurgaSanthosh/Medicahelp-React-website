@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Medicahelp-React-website/static/css/main.573965b5.chunk.css",
+    "main.js": "/Medicahelp-React-website/static/js/main.3aa996bc.chunk.js",
+    "main.js.map": "/Medicahelp-React-website/static/js/main.3aa996bc.chunk.js.map",
+    "runtime-main.js": "/Medicahelp-React-website/static/js/runtime-main.f68ac027.js",
+    "runtime-main.js.map": "/Medicahelp-React-website/static/js/runtime-main.f68ac027.js.map",
+    "static/css/2.74c02967.chunk.css": "/Medicahelp-React-website/static/css/2.74c02967.chunk.css",
+    "static/js/2.3969a6ad.chunk.js": "/Medicahelp-React-website/static/js/2.3969a6ad.chunk.js",
+    "static/js/2.3969a6ad.chunk.js.map": "/Medicahelp-React-website/static/js/2.3969a6ad.chunk.js.map",
+    "index.html": "/Medicahelp-React-website/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/Medicahelp-React-website/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.573965b5.chunk.css.map": "/Medicahelp-React-website/static/css/main.573965b5.chunk.css.map",
+    "static/js/2.3969a6ad.chunk.js.LICENSE.txt": "/Medicahelp-React-website/static/js/2.3969a6ad.chunk.js.LICENSE.txt",
+    "static/media/ambulance3.099421c8.jpeg": "/Medicahelp-React-website/static/media/ambulance3.099421c8.jpeg",
+    "static/media/covid.a67c7c03.jpg": "/Medicahelp-React-website/static/media/covid.a67c7c03.jpg",
+    "static/media/image2.89e17a9e.jpeg": "/Medicahelp-React-website/static/media/image2.89e17a9e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f68ac027.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.3969a6ad.chunk.js",
+    "static/css/main.573965b5.chunk.css",
+    "static/js/main.3aa996bc.chunk.js"
+  ]
+}
